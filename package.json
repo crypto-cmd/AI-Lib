@@ -1,0 +1,17 @@
+{
+  "name": "ai-lib",
+  "version": "1.0.0",
+  "description": "A collection of artificial intelligence algorithms for quick and easy use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "ml",
+    "dl",
+    "algorithms"
+  ],
+  "author": "Orville Daley Jr.",
+  "license": "ISC"
+}
