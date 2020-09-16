@@ -1,17 +1,31 @@
 {
   "name": "ai-lib",
   "version": "1.0.0",
-  "description": "A collection of artificial intelligence algorithms for quick and easy use.",
+  "description": "A collection of artificial intelligence algorithms for quick and easy use",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-cmd/AI-Lib.git"
+  },
   "keywords": [
     "ai",
+    "lib",
     "ml",
-    "dl",
-    "algorithms"
+    "machine-learning",
+    "intelligence",
+    "nn",
+    "neuralnet",
+    "neuralnetwork",
+    "q-learning",
+    "qlearning"
   ],
-  "author": "Orville Daley Jr.",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto-cmd/AI-Lib/issues"
+  },
+  "homepage": "https://github.com/crypto-cmd/AI-Lib#readme"
 }
